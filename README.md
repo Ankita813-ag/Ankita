@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -155,13 +155,14 @@
       I am particularly interested in emerging trends, sustainability, and the evolving role of technology in the fashion industry. My academic journey has equipped me with skills in merchandising and trend forecasting, allowing me to bridge the gap between creative vision and business strategy.
     </p>
     <p>
-      I am eager to collaborate with industry professionals, brands, and innovators to drive impactful solutions in fashion retail and branding. Open to networking and opportunities in brand management, retail strategy, and trend analysis. Let’s connect!
+      I am eager to collaborate with industry professionals, brands, and innovators to drive impactful solutions in fashion retail and branding. Open to networking and opportunities in brand management, retail strategy, and trend analysis.
     </p>
     <p>
-      Welcome to my online portfolio. Here, you can explore my background, academic qualifications, projects, and contact information. Feel free to reach out to me if you have any questions or would like to collaborate!
+      Welcome, here you can explore my background, academic qualifications, projects, and contact information. Feel free to reach out to me if you have any questions or would like to collaborate!
     </p>
   </div>
-    
+ 
+ 
   <!-- Footer -->
   <footer>
     <p>&copy; 2025 Ankita Gautam</p>
@@ -169,4 +170,3 @@
 
 </body>
 </html>
-
